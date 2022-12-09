@@ -1,0 +1,10 @@
+[package]
+name = "bouncing_bevy_logo"
+version = "0.1.0"
+authors = ["arewerage <arewerage@gmail.com>"]
+edition = "2021"
+license = "MIT OR Apache-2.0"
+
+[dependencies]
+bevy = "0.9"
+rand = "0.8.5"

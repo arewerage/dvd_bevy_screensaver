@@ -2,6 +2,8 @@
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+![demo](../media/demo.gif?raw=true)
+
 ## Why?
 
 A simple project that shows the basic concepts of the [Bevy Engine](https://github.com/bevyengine/bevy).

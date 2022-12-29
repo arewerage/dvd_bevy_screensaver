@@ -8,7 +8,7 @@ fn main() {
         .insert_resource(ClearColor(Color::hex("282828").unwrap()))
         .add_plugins(DefaultPlugins.set(WindowPlugin {
             window: WindowDescriptor {
-                title: "Bouncing Bevy Logo".to_owned(),
+                title: "DVD Bevy Screensaver".to_owned(),
                 present_mode: PresentMode::AutoVsync,
                 ..default()
             },

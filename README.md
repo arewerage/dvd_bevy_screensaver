@@ -2,7 +2,8 @@
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-![demo](../media/demo.gif?raw=true)
+<img src="https://github.com/arewerage/dvd_bevy_screensaver/blob/media/demo.gif" alt="" width="600"/>
+
 
 [Full explanation on YouTube (in Russian)](https://www.youtube.com/watch?v=YilHEI3eF9k)
 
